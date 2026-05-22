@@ -135,7 +135,7 @@ function Footer() {
         <div className="text-center">
 
           <p className="footer-copy">
-            © 2026 Espaço Essência Leve.
+            © 2026 Mayrink Tech Solutions.
             Todos os direitos reservados.
           </p>
 
