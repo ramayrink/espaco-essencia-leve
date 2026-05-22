@@ -1,6 +1,4 @@
 import {
-  Instagram,
-  Phone,
   MapPin
 } from 'lucide-react'
 
