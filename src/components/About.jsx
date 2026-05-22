@@ -22,7 +22,7 @@ function About() {
           >
 
             <img
-              src={`${import.meta.env.BASE_URL}Sobre_Nos.PNG`}
+              src={`${import.meta.env.BASE_URL}Sobre_Nos.png`}
               alt="Espaço Essência Leve"
               className="img-fluid about-image"
             />
