@@ -39,7 +39,7 @@ function Hero() {
           <div className="col-lg-6 text-center mb-5 mb-lg-0 order-1 order-lg-2" data-aos="zoom-in">
 
             <img
-              src="/logo.png"
+              src={`${import.meta.env.BASE_URL}logo.png`}
               alt="Espaço Essência Leve"
               className="img-fluid hero-logo"
             />

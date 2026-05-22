@@ -30,7 +30,7 @@ function Footer() {
               target="_blank"
               className="social-link"
             >
-              <img src="/whatsapp.png" alt="WhatsApp" />
+              <img src={`${import.meta.env.BASE_URL}whatsapp.png`} alt="WhatsApp" />
             </a>
 
             <a
@@ -38,7 +38,7 @@ function Footer() {
               target="_blank"
               className="social-link"
             >
-              <img src="/instagram.png" alt="Instagram" />
+              <img src={`${import.meta.env.BASE_URL}instagram.png`} alt="Instagram" />
             </a>
 
           </div>
